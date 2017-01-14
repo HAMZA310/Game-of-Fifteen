@@ -156,12 +156,9 @@ cout <<"Moves Left = "<< total_moves - moves << endl;
      // INSTRUCTIONS!!
      if (starter==2)
      {
-         cout << "The Game has 3 to 6 board difficulty levels." << endl;
-         cout <<"The game has 2 modes. EASY and HARD. Easy mode has unlimited moves and Hard mode has limited moves." << endl;
-         cout <<"The moves left are displayed on the top of the screen!" << endl;
-    cout << "Enter the number in the tile to move the tile towards the empty space." << endl;
-    cout << "Notice that only the adjacent tiles can be moved in the blank space." << endl;
-    cout << "The Numbers are Initially in Descending Order.You have to arrange them in Ascending Order to win the game.Good Luck with that!"<< endl;
+         cout << "Game of Fifteen has variable difficulty levels (3-9)." << endl;
+         cout <<"Each difficulty level has 2 modes: child mode and master mode (limited moves)." << endl;
+         
     string s;
     cout << endl << endl << endl;
     cout << "Press B to go back to main menu: ";
