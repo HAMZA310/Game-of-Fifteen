@@ -26,4 +26,4 @@ order. 
 5- A tile can neither jump over other tiles nor it can move diagonally to empty space. 
 6- To make things juicier, I decided to limit user's number of moves in "MASTER MODE" only. 
    Total number of available moves in "MASTER MDOE" should, of course, depend on difficulty level (3 - 9).
-7- Lastly, I decided to save user's all moves in a txt file (this feature is intended for users not too naive.)
+7- Lastly, I decided to save user's all moves in a txt file.
